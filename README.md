@@ -1,11 +1,11 @@
 ```
-> c0tton-fluff@github:~$ whoami
+c0tton-fluff@github:~$ whoami
 ```
 
 Purple team operator. I break things to understand how they work, then help fix them.
 
 ```
-> Pentesting  |  DFIR  |  Offensive Security  |  MCP Tooling
+Pentesting  |  DFIR  |  Offensive Security  |  MCP + CLI Tooling
 ```
 
 <div align="center">
@@ -17,7 +17,7 @@ Purple team operator. I break things to understand how they work, then help fix 
 </div>
 
 ```
-> ls ./projects
+ls ./projects
 ```
 
 - [caido-mcp-server](https://github.com/c0tton-fluff/caido-mcp-server) - MCP server for Caido + CLI proxy integration
@@ -27,7 +27,7 @@ Purple team operator. I break things to understand how they work, then help fix 
 - [sentinelone-mcp-server](https://github.com/c0tton-fluff/sentinelone-mcp-server) - MCP server for SentinelOne EDR
 
 ```
-> curl -s https://johnmatrix.org
+curl -s https://johnmatrix.org
 ```
 
 [![Website](https://img.shields.io/badge/johnmatrix.org-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=A855F7)](https://johnmatrix.org)
