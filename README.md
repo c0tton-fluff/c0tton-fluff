@@ -10,7 +10,7 @@ Pentesting  |  DFIR  |  Offensive Security  |  MCP + CLI Tooling
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=c0tton-fluff&theme=midnight-purple&hide_border=true&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&background=0d1117" alt="streak" />
+<img src="https://github-contributor-stats.vercel.app/api?username=c0tton-fluff&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=A855F7&combine_all_yearly_contributions=true" alt="contributions" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0tton-fluff&layout=compact&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9&icon_color=A855F7" alt="languages" />
 
