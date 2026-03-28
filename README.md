@@ -9,12 +9,8 @@ Pentesting  |  DFIR  |  Offensive Security  |  MCP + CLI Tooling
 ```
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=c0tton-fluff&hide_border=true&background=0d1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c0tton-fluff&theme=github_dark" alt="languages-by-repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=c0tton-fluff&theme=github_dark" alt="languages-by-commit" />
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c0tton-fluff&theme=github_dark" alt="contributions" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c0tton-fluff&theme=github_dark" alt="languages" />
 </div>
 
 ```
